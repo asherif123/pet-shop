@@ -1,7 +1,7 @@
 [![codecov](https://codecov.io/gh/asherif123/pet-shop/branch/main/graph/badge.svg?token=EKX4AJ04S3)](https://codecov.io/gh/asherif123/pet-shop)
+Checkout the html coverage report [here](htmlcov/index.html)
 
 # Pet Shop API using Django & DRF
-
 ## Running Steps
 - First create a virtual env  
 ```python3.8 -m venv venv```
